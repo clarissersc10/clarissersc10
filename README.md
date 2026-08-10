@@ -6,8 +6,8 @@
 ### 📖 Sobre mim
 
 * 📚 Cursando Técnico em Informática
-* 🎨 Gosto bastante da área de Design
-* 💻 Atualmente aprendendo HTML e Linguagem C
+* 💻 Aprendendo HTML e Linguagem C
+* 📷 Interesses em Design e Fotografia
 
 ---
 
